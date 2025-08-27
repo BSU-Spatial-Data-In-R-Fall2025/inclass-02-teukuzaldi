@@ -1,0 +1,32 @@
+---
+title: "assignmentXX"
+format: html
+---
+
+# Your first Quarto Document
+
+For today's in-class work, you'll learn a few of the features of Quarto and get to practice using version control to track your changes to this document.
+
+## Add some more details to the Header
+
+Modify the yaml header to include your name and affiliation. Save the document and commit the changes.
+
+## Write some text
+
+Delete this sentence and replace it with one sentence that tells me where you're from and a second sentence with the topic of your research. Change the color of the city name to blue and italicize your research topic.
+
+Save the document and commit your change
+
+## Write some code
+
+Insert a code chunk and have R calculate the sum of the month, day, and year you were born.
+
+Save the document and commit your change.
+
+## Render the document
+
+Assuming everything worked correctly you should now have a file named `inclass02.html`
+
+Commit both the final `.qmd` file and the `.html` file together.
+
+## Push your changes
