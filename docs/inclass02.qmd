@@ -1,6 +1,10 @@
 ---
 title: "assignmentXX"
 format: html
+author:
+  name: Teuku Zaldiansyah
+  affiliation:
+    name: Boise State University
 ---
 
 # Your first Quarto Document
@@ -13,15 +17,13 @@ Modify the yaml header to include your name and affiliation. Save the document a
 
 ## Write some text
 
-Delete this sentence and replace it with one sentence that tells me where you're from and a second sentence with the topic of your research. Change the color of the city name to blue and italicize your research topic.
-
-Save the document and commit your change
+My name is Teuku Zaldiansyah and I am from Indonesia. I do mapping invasive species.
 
 ## Write some code
+```{r sumbirth}
+12 + 26 + 1995
+```
 
-Insert a code chunk and have R calculate the sum of the month, day, and year you were born.
-
-Save the document and commit your change.
 
 ## Render the document
 
