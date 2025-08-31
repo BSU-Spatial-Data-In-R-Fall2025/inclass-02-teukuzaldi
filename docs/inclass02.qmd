@@ -20,10 +20,10 @@ Modify the yaml header to include your name and affiliation. Save the document a
 My name is Teuku Zaldiansyah and I am from Indonesia. I do mapping invasive species.
 
 ## Write some code
+```{r sumbirth}
+12 + 26 + 1995
+```
 
-Insert a code chunk and have R calculate the sum of the month, day, and year you were born.
-
-Save the document and commit your change.
 
 ## Render the document
 
