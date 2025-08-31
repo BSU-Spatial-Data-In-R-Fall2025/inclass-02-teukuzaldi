@@ -3,7 +3,7 @@ title: "assignmentXX"
 format: html
 author:
   name: Teuku Zaldiansyah
-  affiliation
+  affiliation:
     name: Boise State University
 ---
 
